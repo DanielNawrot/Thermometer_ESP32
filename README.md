@@ -7,3 +7,6 @@
  - 1x 1.3' OLED IIC
  - Wires
  - BreadBoards
+
+
+![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/Pictures/Pic_1.png)
