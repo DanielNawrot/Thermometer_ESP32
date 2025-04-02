@@ -9,4 +9,7 @@
  - BreadBoards
 
 
-![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/Pictures/Pic_1.png)
+![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/main/Pictures/Pic_1.jpg)
+![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/main/Pictures/Pic_2.jpg)
+![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/main/Pictures/Pic_3.jpg)
+![alt text](https://github.com/DanielNawrot/Thermometer_ESP32/blob/main/Pictures/Pic_4.jpg)
